@@ -11,7 +11,7 @@ Machine learning is a tool to make bank loan predictions. With the classificatio
 From this dataset, we can see that around 22.64% of consumers failed to pay the loan. Consumers who failed to pay will make a big loss to Bank as a lender.
 
 In this project, I build a Machine Learning that can predict the future loan status of the consumers.
-I compare 5 Machine Learning model, such as :
+I compare 5 Machine Learning models to predict, such as :
 * Logistic Regression
 * Random Forest Classifier
 * Decision Tree Classifier
