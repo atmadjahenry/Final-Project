@@ -12,11 +12,11 @@ From this dataset, we can see that around 22.64% of consumers failed to pay the 
 
 In this project, I build a Machine Learning that can predict the future loan status of the consumers.
 I compare 5 Machine Learning model, such as :
-•	Logistic Regression
-•	Random Forest Classifier
-•	Decision Tree Classifier
-•	K-Nearest Neighbors
-•	Ada Boost Classifier
+* Logistic Regression
+* Random Forest Classifier
+* Decision Tree Classifier
+* K-Nearest Neighbors
+* Ada Boost Classifier
 
 
 
