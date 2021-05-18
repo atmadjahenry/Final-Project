@@ -24,4 +24,4 @@ I compare 5 Machine Learning models to predict, such as :
 
 Project Goals
 -------------
-The goal of the project is to reduce the risk of charged off loan status from consumers by making machine learning-based applications to determine the loan request based on the historical data.
+The goal of the project is to reduce the risk of charged off loan status from consumers by making Machine Learning applications to determine the loan request based on the historical data.
