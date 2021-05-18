@@ -1,7 +1,7 @@
 # Final-Project
 Final Project Bank Loan Approval
 
-This data is from Kaggle [Bank Loan Status Dataset](https://www.kaggle.com/zaurbegiev/my-dataset).
+This data is from Kaggle, [Bank Loan Status Dataset](https://www.kaggle.com/zaurbegiev/my-dataset).
 
 This dataset has 100514 rows and 18 columns.
 
