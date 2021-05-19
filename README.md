@@ -31,3 +31,4 @@ I compare 5 Machine Learning models to predict, such as :
 In this case, I have imbalanced target so I used smote for resampling the model.
 
 Decision Tree Classifier and Ada Boost Classifier has the highest Recall Score, so I did hyperparameter tuning for those models. Ada Boost Classifier is the best model for this case. We can still improve our model with threshold adjustment. I try to find the best threshold for Ada Boost Classifier model based on Precision-Recall Curve. The best threshold is 0.499394525800627.
+Recall Score for Ada Boost Classifier is 0.87
